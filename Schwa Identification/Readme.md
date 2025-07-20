@@ -1,13 +1,13 @@
 # Schwa Sound Identification in ESOL Learners
 
-## 📌 Project Overview
+##  Project Overview
 This project addresses a key challenge in ESOL (English for Speakers of Other Languages) education: accurately identifying and providing feedback on mispronunciations of the schwa sound — the most common yet often overlooked vowel sound in English. 
 
 Traditional language feedback systems offer word-level corrections, which often miss finer, phoneme-level deviations that are crucial to fluency. This project implements an AI-powered speech analysis pipeline that focuses specifically on schwa-related phonetic features to deliver more precise, personalised feedback.
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 ESOL learners frequently struggle with accurate pronunciation, particularly with the **schwa sound** (/ə/), which appears in unstressed syllables and varies subtly across contexts. Key issues include:
 
 - **Lack of phoneme-level feedback** in conventional ESOL learning tools.
@@ -16,7 +16,7 @@ ESOL learners frequently struggle with accurate pronunciation, particularly with
 
 ---
 
-## 🎯 Objective
+##  Objective
 To design a system that:
 - Detects schwa sounds from learner speech.
 - Extracts and analyzes acoustic properties like frequency, duration, intensity, and spectral shape.
@@ -24,7 +24,7 @@ To design a system that:
 
 ---
 
-## 🛠️ Solution Approach
+## Solution Approach
 
 1. **Client Collaboration**  
    Worked directly with a client (21st Century Educators) in the ESOL space to understand user pain points and tailor the pipeline to real learner data.
@@ -48,21 +48,21 @@ To design a system that:
 
 ---
 
-## 🧪 Why This Approach?
+## Why This Approach?
 - **Granular phonetic feedback** empowers learners with specific, correctable targets.
 - **AI-driven analysis** is scalable and consistent — unlike human-only feedback systems.
 - Focus on the **schwa sound**, which is central to natural-sounding English but often ignored in typical ESOL systems.
   
 ---
 
-## 🔍 Key Features
+##  Key Features
 - Phoneme-level feedback for schwa recognition.
 - Signal-based feature extraction and analysis.
 - Modular pipeline design for easy extension.
 
 ---
 
-## 🧰 Tech Stack & Skills Used
+##  Tech Stack & Skills Used
 
 - **Languages:** Python  
 - **Libraries:** Librosa, NumPy, SciPy, Matplotlib  
